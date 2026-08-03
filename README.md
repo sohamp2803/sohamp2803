@@ -25,26 +25,31 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full-Stack+Developer;" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&color=00dbde&center=true&vCenter=tr
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohamp2803/sohamp2803/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Frontend-00dbde?style=for-the-badge&logo=github" /> 
   <img src="https://img.shields.io/badge/Focus-Full_Stack-00E5FF?style=for-the-badge&logo=react" />
 </p>
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="200" src="https://github-stats-extended.vercel.app/api?username=sohamp2803&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&ring_color=00BFFF" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sohamp2803&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamp2803&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&hide_border=true&title_color=00BFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamp2803&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideLabels=00BFFF&sideNums=FFFFFF&dates=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sohamp2803/sohamp2803/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
 ---
