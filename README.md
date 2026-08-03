@@ -5,8 +5,25 @@
 
 ---
 
-</div>
-<img width="1100" height="900" alt="file_00000000610881fabd8a7604cf228477" src="https://github.com/user-attachments/assets/616fdb9a-904c-4e92-898a-f58bcf4b108d" />
+<img width="1402" height="690" alt="about_me_1" src="https://github.com/user-attachments/assets/cab96b9a-2e87-4e20-8d14-5775b7fd44b8" />
+
+<img width="1402" height="264" alt="tech_stack_1" src="https://github.com/user-attachments/assets/06838c00-b1a3-4493-b708-b16fada18d0e" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px">
+<p align="center">
+  <a href="https://github.com/sohamp2803" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sohamp2803-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/sohamparmar28" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-sohamparmar28-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://twitter.com/sarcastic_sammx" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-sarcastic__sammx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="mailto:sparmar2803@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sparmar2803%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
 
 ---
 
@@ -17,12 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&color=00dbde&center=true&vCenter=true&width=400&lines=About+Me" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=18&color=ffffff&center=true&vCenter=true&width=800&height=120&lines=I'm+a+passionate+developer+from+Gujarat+studying+at+Parul+University.;Learning+Advanced+JavaScript+and+logic.;Goal:+To+build+cool+projects+as+a+Full-Stack+Developer." />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&color=00dbde&center=true&vCenter=tr
 
 ---
 
