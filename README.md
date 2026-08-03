@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sammm2828/sammm2828/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/sohamp2803/sohamp2803/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
