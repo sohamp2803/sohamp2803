@@ -3,7 +3,7 @@
 
 <div align="center">
 
-#  🌌 About Me 🌌 
+---
 
 </div>
 <img width="1100" height="900" alt="file_00000000610881fabd8a7604cf228477" src="https://github.com/user-attachments/assets/616fdb9a-904c-4e92-898a-f58bcf4b108d" />
