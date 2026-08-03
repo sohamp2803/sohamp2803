@@ -39,9 +39,6 @@
   <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sohamp2803&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamp2803&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&hide_border=true&title_color=00BFFF" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamp2803&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideLabels=00BFFF&sideNums=FFFFFF&dates=FFFFFF" />
