@@ -1,4 +1,4 @@
-<img width="1400" height="800" alt="ChatGPT Image Jul 25, 2026, 06_57_12 PM" src="https://github.com/user-attachments/assets/c8e498b2-51f0-43b2-a6de-5aa4e4b7ba0c" />
+<img width="1500" height="900" alt="github" src="https://github.com/user-attachments/assets/aa39a0da-e64b-4989-a58b-cd8897a5b96d" />
 
 
 <div align="center">
@@ -40,9 +40,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamp2803&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideLabels=00BFFF&sideNums=FFFFFF&dates=FFFFFF" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sohamp2803/sohamp2803/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
